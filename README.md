@@ -66,7 +66,7 @@ src/
     calendar/      TrainingCalendar, TrainingDetailsDialog
     common/        ConfirmDialog, DataTable, LoadError, PageHeader
     customers/     CustomerTable, CustomerFormDialog, EmptyDatabaseNotice
-    layout/        Layout (app bar and navigation)
+    layout/        Layout (app bar and page area), NavigationDrawer (burger menu)
     statistics/    ActivityChart, ActivityTable, StatTile
     trainings/     TrainingTable, TrainingFormDialog
   context/         Notifications shown across the app
